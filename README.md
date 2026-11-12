@@ -55,7 +55,7 @@ Siber zorbalık iki açıdan incelendi: mağduriyetin öğrencilerin ruh sağlı
 
 ---
 
-## ▶️ Çalıştırma
+## ⚙️ Kurulum ve Kullanım
 
 ```bash
 git clone https://github.com/KULLANICI_ADIN/REPO_ADI.git

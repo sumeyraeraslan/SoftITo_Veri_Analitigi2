@@ -1,0 +1,46 @@
+,Platform,Count
+,Facebook ,2149
+,You Tube ,1364
+,Instagram ,927
+,TikTok ,1125
+,Twitter/X,120
+,Reddit,106
+,,
+,Language,Count
+,Bangla,4318
+,Banglish,1018
+,English,326
+,Mixed,118
+,,
+,,
+,,
+,Gender_of_Target,Count
+,Female ,3112
+,Male,1081
+,Both,227
+,Unknown,93
+,None,1299
+,,
+,,
+,,
+,,
+,Harassment_Label,Count
+,Yes,4500
+,No,1280
+,,
+,,
+,,
+,,
+,Harassment_Type,Count
+,Neutral,1299
+,Trolling,1088
+,Cyberbullying,1259
+,Hate Speech,1039
+,Sexual Harassment,1098
+,,
+,Target_Group,Count
+,Individual,4012
+,Community,179
+,None,1299
+,Political,280
+,Religious ,10

@@ -1,7 +1,5 @@
 # SoftITo | Veri Analitiği – 2
 
-**Sümeyra Eraslan**
-
 İstanbul Ticaret Odası (İTO) bünyesindeki **SoftITo Yazılım-Bilişim Akademisi Veri Analitiği – 2** programı kapsamında hazırladığım ödevler ve bitirme projesi.
 
 Sağlık, eğitim, perakende ve sosyal medya verileri üzerinde veri temizleme, keşifsel veri analizi, istatistiksel testler, görselleştirme ve makine öğrenmesi ile metin sınıflandırma çalışmaları yaptım.
